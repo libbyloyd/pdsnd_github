@@ -28,12 +28,17 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     months = ('all','january', 'february', 'march', 'april', 'may', 'june')
-    month = input("Please enter a month between January and June to view an analysis from. For all months, please enter 'all': ")
-
+    while True:
+        month = input("Please enter a month between January and June to view an analysis from. For all months, please enter 'all': ")
+        if month in months:
+            break
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     days = ('all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday')
-    day = input("Please enter a day of the week (Monday - Sunday) you would like to preform your analysis on. For all days, please enter 'all': ")
+    while True:
+        day = input("Please enter a day of the week (Monday - Sunday) you would like to preform your analysis on. For all days, please enter 'all': ")
+        if day in days:
+            break
 
     print('-'*40)
     return city, month, day
