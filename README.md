@@ -7,10 +7,13 @@ Projected created 8/22/2021.
 Udacity programming course: Posting my Work on GitHub.
 
 ### Description
-Describe what your project is about and what it does
+This project analyzes time series data and user data about a bike sharing program in the cities of Chicago, New York City, and Washington DC.
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+newyork.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
