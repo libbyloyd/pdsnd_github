@@ -16,5 +16,6 @@ newyork.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I took inspiration from anothers classmates git repository when i was stuck. 
+https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/blob/master/bikeshare_2.py
 
