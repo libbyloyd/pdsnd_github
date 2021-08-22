@@ -8,6 +8,7 @@ Udacity programming course: Posting my Work on GitHub.
 
 ### Description
 This project analyzes time series data and user data about a bike sharing program in the cities of Chicago, New York City, and Washington DC.
+This project was coded and submitted using the Udacity python terminal avaliable in the course website.
 
 ### Files used
 bikeshare.py
