@@ -1,5 +1,5 @@
 #Consulted another students github page as a reference: https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/blob/master/bikeshare_2.py
-
+#Project completed by Libby Loyd for the Data Science using Python course at Udacity.
 
 import time
 import pandas as pd
